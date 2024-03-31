@@ -27,6 +27,10 @@ When I'm not slinging code, you'll find me cruising down new roads, both in my c
 
 ![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratham271&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
+## 📌 Pins
+
+[![An image of @mishmanners's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham271)](https://holopin.io/@pratham271)
+
 ## 🔗 Links
 
 - **Twitter:** [Pratham9474](https://twitter.com/Pratham9474)
