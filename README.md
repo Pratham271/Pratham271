@@ -1,5 +1,5 @@
-## Hello, I'm Pratham Chauhan! 👋 ![](https://komarev.com/ghpvc/?username=Pratham271)
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+## <h1 align="center">Hello, I'm Pratham Chauhan! 👋 <img src="https://komarev.com/ghpvc/?username=Pratham271"></h1> 
 
 As a Full-Stack Developer with a knack for AI integration, I'm all about crafting code that's as smooth as jazz and sharp as a katana. Constantly seeking out the latest tech trends is my jam—I'm basically a human API for innovation.
 
@@ -31,13 +31,10 @@ When I'm not slinging code, you'll find me cruising down new roads, both in my c
 
 [![An image of @mishmanners's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham271)](https://holopin.io/@pratham271)
 
-## 🔗 Links
-
-- **Twitter:** [Pratham9474](https://twitter.com/Pratham9474)
-- **GitHub:** [Pratham271](https://github.com/Pratham271)
-- **LinkedIn:** [Pratham Chauhan](https://www.linkedin.com/in/pratham-chauhan-0812ba1a0/)
-
-
 ## 📫 Get in touch
 
 - Email: chauhanpratham22@gmail.com
+
+## 
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
