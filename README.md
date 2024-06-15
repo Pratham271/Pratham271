@@ -23,9 +23,11 @@ When I'm not slinging code, you'll find me cruising down new roads, both in my c
 - Master AI Libraries
 - Solve more DSA
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 ![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratham271&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pratham271&theme=dark)](https://git.io/streak-stats)
+
 
 ## 📌 Pins
 
