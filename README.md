@@ -10,7 +10,7 @@ When I'm not slinging code, you'll find me cruising down new roads, both in my c
 - **Programming/Scripting Languages worked with:** Python,  Java, Typescript, JavaScript
 - **Frontend Development:**  React.js, Next.js
 - **Backend Development:** Proficient in Node.js, Python and Java
-- **AI:** LangchainJs, Ollama and VercelAI sdk
+- **AI:** LangchainJs, Ollama and VercelAI Sdk
 - **Databases:** Proficient with NoSQL and Relational databases, including MongoDB, PostgreSQL, and MySQL
 - **DevOps Tools:** Docker
 - **Version Control:** Git / GitHub 
