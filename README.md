@@ -44,7 +44,7 @@ When I'm not slinging code, you'll find me cruising down new roads, both in my c
 
 ## 📌 Pins
 
-[![An image of @mishmanners's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham271)](https://holopin.io/@pratham271)
+[![An image of @Pratham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham271)](https://holopin.io/@pratham271)
 
 ## 📫 Get in touch
 
